@@ -1,6 +1,6 @@
 # Visiting Card
 
-## What you will create
+## What is it ?
 
 Visiting Card is a personal business card.
 
